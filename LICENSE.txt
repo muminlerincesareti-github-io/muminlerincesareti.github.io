@@ -1,0 +1,2 @@
+./pdfix_app pdf2html  --input ~/Downloads/evrimAldatmacasi_8b_tr/evrimAldatmacasi_8b_tr.pdf --output ~/Downloads/evrimAldatmacasi_8b_tr/index.html
+
